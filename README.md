@@ -3,7 +3,7 @@
 
 Thanks for your interest in Finixio! Our React.js technical interview process involves candidates doing an at-home (or at work, or at Costa) project to test your React.js knowledge and problem solving abilities, while also giving you a chance to write code in a way that you find comfortable.
 
-This test should take about 1 hour. If you take less time, no problem! If you take more time, that's cool too but don't spend more than 2 hours working on this. Using Google/StackOverflow//whatever for help is allowed, but ultimately you should write and be able to justify every piece of the code being submitted.
+This test should take about **1 hour**. If you take less time, no problem! If you take more time, that's cool too but don't spend more than 2 hours working on this. Using Google/StackOverflow/whatever for help is allowed, but ultimately you should write and be able to justify every piece of the code being submitted.
 
 Your solution should be shared on a public Github or Bitbucket repo showing all commit history.
 
